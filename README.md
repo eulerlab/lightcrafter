@@ -25,4 +25,10 @@ Test by running:
 python3
 >>> import hid
 ```
+... and then:
+```
+cd code
+python3 __toVideoMode.py
+```
+
 
